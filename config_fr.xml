@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>supplierbackoffice</name>
+	<displayName><![CDATA[Fournisseur BackOffice]]></displayName>
+	<version><![CDATA[1.0]]></version>
+	<description><![CDATA[Module permettant aux fournisseurs de modifier leurs produits]]></description>
+	<author><![CDATA[Enzo Hamelin]]></author>
+	<tab><![CDATA[bakc_office_features]]></tab>
+	<confirmUninstall><![CDATA[Êtes-vous sûr de vouloir désinstaller Fournisseur BackOffice ?]]></confirmUninstall>
+	<is_configurable>0</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

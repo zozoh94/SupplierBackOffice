@@ -1,0 +1,1 @@
+Le produit n°{id} a été modifié/crée.

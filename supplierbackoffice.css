@@ -1,0 +1,30 @@
+#page-header-desc-product-modules-list,
+.gamification-tip,
+#quick_select,
+#header_notifs_icon_wrapper,
+#nav-sidebar,
+#nav-topbar,
+#footer,
+#page-header-desc-product-stats,
+#link-Seo,
+#link-Associations,
+#link-Shipping,
+#link-Combinations,
+#link-Customization,
+#link-Attachments,
+#link-Suppliers
+{
+    display: none!important;
+}
+
+#content {
+    margin-left: 0px!important;
+}
+
+.page-topbar:not(.mobile-nav) #content .page-head  {
+    top: 36px!important;
+}
+
+.page-topbar:not(.mobile-nav) #content {
+    padding-top: 90px;
+}
